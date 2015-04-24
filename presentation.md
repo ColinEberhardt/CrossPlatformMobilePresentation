@@ -20,7 +20,7 @@ HSBC London, April 2015
 
 ---
 # Geek points
-This presentation was written in markdown and rendered using [remark](https://github.com/gnab/remark/).
+This presentation was written in markdown and rendered using [remark](https://github.com/gnab/remark/), with the presentation [sourcecode available on GitHub](https://github.com/ColinEberhardt/CrossPlatformMobilePresentation).
 
 ```markdown
 # Cross Platform Mobile
@@ -37,7 +37,7 @@ class: center, middle
 
 class: center, middle
 
-![image](assets/InternetUsage.jpg)
+![](assets/InternetUsage.jpg)
 
 Early 2014, [mobile web traffic exceeded desktop](http://searchenginewatch.com/sew/opinion/2353616/mobile-now-exceeds-pc-the-biggest-shift-since-the-internet-began)
 ```
@@ -45,13 +45,12 @@ Early 2014, [mobile web traffic exceeded desktop](http://searchenginewatch.com/s
 ---
 class: center, middle, chapter
 # Why Mobile?
-<!-- I'm just going to throw out some facts and figures -->
 
 ---
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/ipad.jpg)
+![](assets/ipad.jpg)
 
 #2010
 
@@ -59,9 +58,7 @@ class: center, middle
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/InternetUsage.jpg)
-
-<!-- Probably read about sales figures, tablets  -->
+![](assets/InternetUsage.jpg)
 
 Early 2014, [mobile web traffic exceeded desktop](http://searchenginewatch.com/sew/opinion/2353616/mobile-now-exceeds-pc-the-biggest-shift-since-the-internet-began)
 
@@ -69,9 +66,7 @@ Early 2014, [mobile web traffic exceeded desktop](http://searchenginewatch.com/s
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/MobileShopping.jpg)
-
-<!-- Probably read about sales figures, tablets  -->
+![](assets/MobileShopping.jpg)
 
 Late 2014 [the Guardian reported](http://www.theguardian.com/business/2014/sep/02/online-shopping-mobiles-overtakes-desktop) that for online shopping, 52% of visits were from mobile devices, resulting in 36% of transactions.
 
@@ -79,7 +74,7 @@ Late 2014 [the Guardian reported](http://www.theguardian.com/business/2014/sep/0
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/hollywood.png)
+![](assets/hollywood.png)
 
 Apple's App Store economy has [reached $10bn - bigger than Hollywood!](http://fortune.com/2015/01/22/apples-apps-economy-bigger-than-hollywood/)
 
@@ -87,7 +82,7 @@ Apple's App Store economy has [reached $10bn - bigger than Hollywood!](http://fo
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/IGTrading.png)
+![](assets/IGTrading.png)
 
 IG Group reported over [30% of their revenues coming from mobile devices](http://www.google.com/url?q=http%3A%2F%2Fforexmagnates.com%2Fcloser-look-at-ig-group-fy-2014-results-mobile-and-equities-up-forex-down%2F&sa=D&sntz=1&usg=AFQjCNHDSFzCv6aYg7NteFWaFX_YAacu1w) by mid-2014
 
@@ -95,7 +90,7 @@ IG Group reported over [30% of their revenues coming from mobile devices](http:/
 class: center, middle
 .section-title[Why Mobile?]
 
-![image](assets/CaplinResearch.png)
+![](assets/CaplinResearch.png)
 
 A Caplin study revealed that there was a [significant gap between features supplied and demand](https://www.caplin.com/business/news-post/trading-on-the-move).
 
@@ -106,7 +101,6 @@ A Caplin study revealed that there was a [significant gap between features suppl
 - 90% of execs use mobiles around the office
 - 10% as their primary device
 
-<!-- 90% of execs use their mobile phones around the office, 10% use it as their primary device -->
 via [Joe McKendrick, Forbes](http://www.forbes.com/sites/joemckendrick/2014/11/24/can-you-run-a-business-entirely-from-a-mobile-phone/)
 
 ---
@@ -117,7 +111,7 @@ class: center, middle, chapter
 class: center, middle
 .section-title[Why Cross Platform?]
 
-![image](assets/MarketShare.png)
+![](assets/MarketShare.png)
 
 Worldwide smartphone sales (millions) as reported [by Gartner](http://en.wikipedia.org/wiki/Mobile_operating_system)
 
@@ -125,7 +119,7 @@ Worldwide smartphone sales (millions) as reported [by Gartner](http://en.wikiped
 class: center, middle
 .section-title[Why Cross Platform?]
 
-![image](assets/ChangeInMicrosoft.png)
+![](assets/ChangeInMicrosoft.png)
 
 Gartner's 2011 prediction that [Windows Phone would 'beat' iOS by 2015](http://blog.scottlogic.com/2011/04/08/gartner-predicts-a-promising-future-for-windows-phone-7-developers.html), didn't quite work out.
 
@@ -133,7 +127,7 @@ Gartner's 2011 prediction that [Windows Phone would 'beat' iOS by 2015](http://b
 class: center, middle
 .section-title[Why Cross Platform?]
 
-![image](assets/RegionalVariations.png)
+![](assets/RegionalVariations.png)
 
 There are significant regional variations - via [Kantar WorldPanel](http://www.kantarworldpanel.com/smartphone-os-market-share/)
 
@@ -153,57 +147,57 @@ If only there was another way? ...
 ---
 class: center, middle, chapter
 #HTML5 to the Rescue!
-![image](assets/HTML5Hero.jpg)
+![](assets/HTML5Hero.jpg)
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/BBC.png)
+![](assets/BBC.png)
 
 [BBC News, 2012](http://www.bbc.co.uk/news/business-17931814)
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/Guardian.png)
+![](assets/Guardian.png)
 
 [Guardian, 2012](http://www.theguardian.com/technology/appsblog/2012/oct/03/html5-apps)
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/famous.png)
+![](assets/famous.png)
 
 "Finally HTML5 matches and beats native" - Steve Newcomb
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/zuckerberg.jpg)
+![](assets/zuckerberg.jpg)
 
 "The biggest mistake we made as a company was betting too much on HTML5 as opposed to native" - Mark Zuckerberg
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/HypeCycle.png)
+![](assets/HypeCycle.png)
 
 Gartner's 2012 Hype Cycle for Emerging Technologies 
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/HTML5Won.png)
+![](assets/HTML5Won.png)
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/FlashDead.png)
+![](assets/FlashDead.png)
 
 ---
 class: center, middle
 .section-title[HTML5]
-![image](assets/javascript.jpg)
+![](assets/javascript.jpg)
 
 ---
 class: center, middle, chapter
@@ -248,12 +242,12 @@ class: center, middle, chapter
 ---
 class: center, middle
 .section-title[HTML5 for Mobile]
-![image](assets/iPhoneSpeed.png)
+![](assets/iPhoneSpeed.png)
 
 ---
 class: center, middle
 .section-title[HTML5 for Mobile]
-![image](assets/iPhoneSpeed.png)
+![](assets/iPhoneSpeed.png)
 
 ---
 .section-title[HTML5 for Mobile]
@@ -280,7 +274,7 @@ class: center, middle
 .section-title[HTML5 for Mobile]
 #Hybrid apps
 
-![image](assets/hybrid-app.png)
+![](assets/hybrid-app.png)
 
 ---
 class: center, middle, chapter
@@ -289,7 +283,7 @@ class: center, middle, chapter
 ---
 class: center, middle
 .section-title[The state of HTML5]
-![image](assets/hybrid-apps.jpg)
+![](assets/hybrid-apps.jpg)
 
 ---
 class: center, middle
@@ -299,7 +293,7 @@ class: center, middle
 ---
 class: center, middle
 .section-title[HTML5 for Mobile]
-![image](assets/visionmobile.png)
+![](assets/visionmobile.png)
 
 42% are using HTML5 - 15% are targeting mobile browsers - [Developer Economics 2014 Q3](http://www.visionmobile.com/product/developer-economics-q3-2014/)
 
@@ -310,7 +304,7 @@ class: center, middle, chapter
 ---
 class: center, middle
 .section-title[HTML5 is a terrible hack!]
-![image](assets/ft.jpg)
+![](assets/ft.jpg)
 
 The FT app developers created [FastClick](http://labs.ft.com/articles/ft-fastclick/)
 
@@ -326,7 +320,7 @@ Scrolling requires a *lot* of code!
 class: center, middle
 .section-title[HTML5 is a terrible hack!]
 
-![image](assets/scrolling.gif)
+![](assets/scrolling.gif)
 
 [Flipboard](http://engineering.flipboard.com/2015/02/mobile-web/) - in pursuit of 60fps.
 
@@ -337,14 +331,14 @@ class: center, middle, chapter
 ---
 class: center, middle
 .section-title[mobile frameworks]
-![image](assets/html5-frameworks.png)
+![](assets/html5-frameworks.png)
 
 There are many many frameworks
 
 ---
 class: center, middle
 .section-title[mobile frameworks]
-![image](assets/native-frameworks.png)
+![](assets/native-frameworks.png)
 
 But why restrict yourself just to HTML5?
 
@@ -396,7 +390,7 @@ class: center, middle, chapter
 
 ---
 class: center, middle
-![image](assets/PropertyCross.png)
+![](assets/PropertyCross.png)
 
 (inspired by ToDoMVC)
 
@@ -412,7 +406,7 @@ class: center, middle
 ---
 class: center, middle
 .section-title[PropertyCross]
-![image](assets/PropertyCross-Site.png)
+![](assets/PropertyCross-Site.png)
 
 22 frameworks, 57 apps
 
@@ -432,7 +426,7 @@ class: center, middle
 - PhoneGap wrapped - using the cloud!
 - Intended more for static websites than apps
 - 99% shared code
-![image](assets/jqm-trends.png)
+![](assets/jqm-trends.png)
 
 ---
 class: center, middle
@@ -472,7 +466,7 @@ class: center, middle
 - A 'thick' abstraction layer
 - 100% shared code
 
-![image](assets/senchatouch-trends.png)
+![](assets/senchatouch-trends.png)
 
 ---
 .section-title[PropertyCross]
@@ -491,7 +485,7 @@ class: center, middle
 - 100% shared code
 - Windows Phone 'on roadmap'
 
-![image](assets/ionic-trends.png)
+![](assets/ionic-trends.png)
 
 ---
 class: center, middle
@@ -524,7 +518,7 @@ class: center, middle
 - Very 'thick' abstraction layer and complex tooling
 - 90% code shared
 
-![image](assets/appcelerator-trends.png)
+![](assets/appcelerator-trends.png)
 
 ---
 .section-title[PropertyCross]
@@ -546,7 +540,7 @@ class: center, middle
 - Strong connection with Microsoft
 - Well funded
 
-![image](assets/xamarin-trends.png)
+![](assets/xamarin-trends.png)
 
 ---
 class: center, middle
@@ -574,14 +568,14 @@ class: center, middle
 - JavaScriptCore in a background thread, rendering to a native UI
 - Used for the Facebook *'something or other'* app
 
-![image](assets/reactnative-trends.png)
+![](assets/reactnative-trends.png)
 
 ---
 class: center, middle
 .section-title[PropertyCross]
 #React Native
 
-![image](assets/reactnative.png)
+![](assets/reactnative.png)
 
 (demo - https://youtu.be/gsyoqce6ygk)
 
